@@ -2,10 +2,10 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'0d8f404b-9efb-494f-9ead-a8f529cc834b'}
+UUID=${UUID:-'85de8a43-5fb5-455b-8099-baf13bcab10e'}
 
 # 其他Paas保活
-PAAS1_URL=https://poplpl-somedspcov.b4a.run/
+PAAS1_URL=
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
