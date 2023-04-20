@@ -13,8 +13,8 @@ PAAS5_URL=
 PAAS6_URL=
 
 # replit账号保活
-REPLIT_ACCOUNT=replt2023@nqmo.com
-REPLIT_PASSWORD=ZXCVB12345
+REPLIT_ACCOUNT=
+REPLIT_PASSWORD=
 
 # Argo 固定域名隧道的两个参数,这个可以填 Json 内容或 Token 内容，获取方式看 https://github.com/fscarmen2/X-for-Glitch，不需要的话可以留空，删除或在这三行最前面加 # 以注释
 ARGO_AUTH=''
